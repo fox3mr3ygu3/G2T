@@ -1,0 +1,23 @@
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+venv/
+env/
+
+# VS Code settings
+.vscode/
+
+# Logs
+*.log
+
+# Environment / secret files
+.env
+token.json
+credentials.json
+
+# OS files
+.DS_Store
+Thumbs.db
